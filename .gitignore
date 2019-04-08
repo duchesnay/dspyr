@@ -1,0 +1,3 @@
+*.pyc
+*.Rhistory
+/.ipynb_checkpoints/
